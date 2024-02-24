@@ -11,8 +11,8 @@ namespace BudgetBuddy.ViewModels
     {
         [ObservableProperty]
         public bool _isbusy;
-        [ObservableProperty]
-        public string _Title;
+        //[ObservableProperty]
+        //public string? Title;
 
     }
 }
