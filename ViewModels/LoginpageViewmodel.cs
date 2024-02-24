@@ -1,10 +1,5 @@
 ﻿using Microsoft.Toolkit.Mvvm.ComponentModel;
 using Microsoft.Toolkit.Mvvm.Input;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BudgetBuddy.ViewModels
 {
@@ -12,11 +7,11 @@ namespace BudgetBuddy.ViewModels
     {
         [ObservableProperty]
         private string _username;
-        [ObservableProperty]    
+        [ObservableProperty]
         private string _password;
 
         [ICommand]
         public async void Login() { }
-    
+
     }
 }
