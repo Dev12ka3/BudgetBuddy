@@ -42,8 +42,7 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="CResources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
-
+		<MauiIcon Include="Resources\AppIcon\gg.svg"  color="#993C31" />
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\bbs.png" color="#993C31" />
 
@@ -56,6 +55,15 @@
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AndroidResource Remove="CResources\**" />
+	  <Compile Remove="CResources\**" />
+	  <EmbeddedResource Remove="CResources\**" />
+	  <MauiCss Remove="CResources\**" />
+	  <MauiXaml Remove="CResources\**" />
+	  <None Remove="CResources\**" />
 	</ItemGroup>
 
 	<ItemGroup>
