@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BudgetBuddy.Getstarted"
+             Title="Getstarted">
+
+
+    <VerticalStackLayout Grid.Row="1"  VerticalOptions="FillAndExpand" Padding="0" Margin="0,0,0,0" >
+
+        <Image
+        Source="man.png"  HeightRequest="575" Margin="0,0,0,10"/>
+        <Label Text="Spend smarter" HorizontalOptions="Center" TextColor="{DynamicResource bravo}" FontAttributes="Bold" TextDecorations="None" FontSize="35"/>
+        <Label Text=" Save More" HorizontalOptions="Center" TextColor="{DynamicResource bravo}" FontAttributes="Bold" TextDecorations="None" FontSize="34"/>
+        <Button Text="Get started" BackgroundColor="{DynamicResource bravo}" WidthRequest="300" Margin="0,20,0,0" CornerRadius="30" Clicked="signup">
+            <Button.Shadow>
+                <Shadow Brush="#BC6067" 
+                        Offset="15,15"
+                        Opacity="0.8">
+                </Shadow>
+            </Button.Shadow>
+        </Button>
+        <HorizontalStackLayout HorizontalOptions="Center">
+            <Label Text="Already Have Account?" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+
+            <Button Text="Log in" Background="Transparent" TextColor="{DynamicResource bravo}" Clicked="Login"/>
+        </HorizontalStackLayout>
+
+
+
+
+    </VerticalStackLayout>
+
+</ContentPage>
