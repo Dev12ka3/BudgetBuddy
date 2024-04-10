@@ -226,7 +226,6 @@ C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-ios\ioss
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
@@ -308,3 +307,9 @@ C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\ioss
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\BudgetBuddy.pdb
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\BudgetBuddy.genruntimeconfig.cache
 C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\ref\BudgetBuddy.dll
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\bb.png
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\bb@2x.png
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\bb@3x.png
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf

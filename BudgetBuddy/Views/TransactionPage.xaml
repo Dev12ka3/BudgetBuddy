@@ -11,10 +11,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Padding="20">
-                            <Entry Placeholder="Enter search keyword" x:Name="searchEntry" />
-                            <Button Text="Search" Clicked="ToolbarItem_Clicked" />
-                        </StackLayout>
+                        
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

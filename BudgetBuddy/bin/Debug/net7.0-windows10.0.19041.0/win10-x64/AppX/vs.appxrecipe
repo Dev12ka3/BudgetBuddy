@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-10T06:38:02.227</Modified>
+      <Modified>2024-04-10T19:44:18.518</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-10T06:38:01.610</Modified>
+      <Modified>2024-04-10T19:44:18.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BudgetBuddy.runtimeconfig.json">
       <PackagePath>BudgetBuddy.runtimeconfig.json</PackagePath>
-      <Modified>2024-04-10T03:43:06.442</Modified>
+      <Modified>2024-04-10T19:44:17.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BudgetBuddy.dll">
       <PackagePath>BudgetBuddy.dll</PackagePath>
-      <Modified>2024-04-10T06:37:59.500</Modified>
+      <Modified>2024-04-10T19:44:15.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BudgetBuddy.exe</PackagePath>
-      <Modified>2024-04-10T06:37:59.507</Modified>
+      <Modified>2024-04-10T19:44:15.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BudgetBuddy.deps.json">
       <PackagePath>BudgetBuddy.deps.json</PackagePath>
-      <Modified>2024-04-10T04:26:08.631</Modified>
+      <Modified>2024-04-10T19:44:17.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.16\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -983,219 +983,239 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-100.png">
       <PackagePath>splashroundSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:45.846</Modified>
+      <Modified>2024-04-10T19:42:10.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-125.png">
       <PackagePath>splashroundSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:45.893</Modified>
+      <Modified>2024-04-10T19:42:10.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-150.png">
       <PackagePath>splashroundSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:45.940</Modified>
+      <Modified>2024-04-10T19:42:10.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-200.png">
       <PackagePath>splashroundSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.067</Modified>
+      <Modified>2024-04-10T19:42:10.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-400.png">
       <PackagePath>splashroundSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.481</Modified>
+      <Modified>2024-04-10T19:42:10.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-04-09T13:09:54.166</Modified>
+      <Modified>2024-04-10T19:42:10.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-04-09T13:09:54.166</Modified>
+      <Modified>2024-04-10T19:42:10.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-04-10T03:20:48.251</Modified>
+      <Modified>2024-04-10T19:44:13.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.966</Modified>
+      <Modified>2024-04-10T19:44:14.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.013</Modified>
+      <Modified>2024-04-10T19:44:14.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.044</Modified>
+      <Modified>2024-04-10T19:44:14.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.107</Modified>
+      <Modified>2024-04-10T19:44:14.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.405</Modified>
+      <Modified>2024-04-10T19:44:14.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.960</Modified>
+      <Modified>2024-04-10T19:44:14.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.960</Modified>
+      <Modified>2024-04-10T19:44:14.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.006</Modified>
+      <Modified>2024-04-10T19:44:14.102</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.975</Modified>
+      <Modified>2024-04-10T19:44:14.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.975</Modified>
+      <Modified>2024-04-10T19:44:14.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.723</Modified>
+      <Modified>2024-04-10T19:44:14.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.850</Modified>
+      <Modified>2024-04-10T19:44:14.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.928</Modified>
+      <Modified>2024-04-10T19:44:14.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.865</Modified>
+      <Modified>2024-04-10T19:44:14.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.865</Modified>
+      <Modified>2024-04-10T19:44:14.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.375</Modified>
+      <Modified>2024-04-10T19:44:13.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.440</Modified>
+      <Modified>2024-04-10T19:44:13.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.440</Modified>
+      <Modified>2024-04-10T19:44:13.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.494</Modified>
+      <Modified>2024-04-10T19:44:13.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.550</Modified>
+      <Modified>2024-04-10T19:44:14.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.582</Modified>
+      <Modified>2024-04-10T19:44:14.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.582</Modified>
+      <Modified>2024-04-10T19:44:14.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.707</Modified>
+      <Modified>2024-04-10T19:44:14.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.597</Modified>
+      <Modified>2024-04-10T19:44:14.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.692</Modified>
+      <Modified>2024-04-10T19:44:14.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.535</Modified>
+      <Modified>2024-04-10T19:44:14.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.573</Modified>
+      <Modified>2024-04-10T19:44:14.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.588</Modified>
+      <Modified>2024-04-10T19:44:14.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.636</Modified>
+      <Modified>2024-04-10T19:44:14.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.683</Modified>
+      <Modified>2024-04-10T19:44:14.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.274</Modified>
+      <Modified>2024-04-10T19:44:14.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.290</Modified>
+      <Modified>2024-04-10T19:44:14.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.353</Modified>
+      <Modified>2024-04-10T19:44:14.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.400</Modified>
+      <Modified>2024-04-10T19:44:14.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.494</Modified>
+      <Modified>2024-04-10T19:44:14.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.022</Modified>
+      <Modified>2024-04-10T19:44:14.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.070</Modified>
+      <Modified>2024-04-10T19:44:14.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.101</Modified>
+      <Modified>2024-04-10T19:44:14.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.116</Modified>
+      <Modified>2024-04-10T19:44:14.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.258</Modified>
+      <Modified>2024-04-10T19:44:14.132</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.714</Modified>
+      <Modified>2024-04-10T19:44:14.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.736</Modified>
+      <Modified>2024-04-10T19:44:14.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.777</Modified>
+      <Modified>2024-04-10T19:44:14.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.836</Modified>
+      <Modified>2024-04-10T19:44:14.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.936</Modified>
+      <Modified>2024-04-10T19:44:14.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png">
       <PackagePath>back.scale-100.png</PackagePath>
       <Modified>2024-04-09T13:09:54.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-100.png">
+      <PackagePath>bb.scale-100.png</PackagePath>
+      <Modified>2024-04-10T19:44:13.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-125.png">
+      <PackagePath>bb.scale-125.png</PackagePath>
+      <Modified>2024-04-10T19:44:13.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-150.png">
+      <PackagePath>bb.scale-150.png</PackagePath>
+      <Modified>2024-04-10T19:44:13.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-200.png">
+      <PackagePath>bb.scale-200.png</PackagePath>
+      <Modified>2024-04-10T19:44:14.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-400.png">
+      <PackagePath>bb.scale-400.png</PackagePath>
+      <Modified>2024-04-10T19:44:14.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png">
       <PackagePath>check.scale-100.png</PackagePath>
@@ -1215,391 +1235,391 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.062</Modified>
+      <Modified>2024-04-10T19:44:13.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.172</Modified>
+      <Modified>2024-04-10T19:44:13.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.392</Modified>
+      <Modified>2024-04-10T19:44:13.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.676</Modified>
+      <Modified>2024-04-10T19:44:14.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.944</Modified>
+      <Modified>2024-04-10T19:44:14.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnew.ico">
       <PackagePath>iconnew.ico</PackagePath>
-      <Modified>2024-04-10T03:20:46.601</Modified>
+      <Modified>2024-04-10T19:44:13.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-100.png">
       <PackagePath>iconnewLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.856</Modified>
+      <Modified>2024-04-10T19:44:14.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-125.png">
       <PackagePath>iconnewLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.060</Modified>
+      <Modified>2024-04-10T19:44:14.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-150.png">
       <PackagePath>iconnewLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.311</Modified>
+      <Modified>2024-04-10T19:44:14.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-200.png">
       <PackagePath>iconnewLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.484</Modified>
+      <Modified>2024-04-10T19:44:14.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-400.png">
       <PackagePath>iconnewLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:50.751</Modified>
+      <Modified>2024-04-10T19:44:14.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>iconnewLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.465</Modified>
+      <Modified>2024-04-10T19:44:14.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>iconnewLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.512</Modified>
+      <Modified>2024-04-10T19:44:14.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>iconnewLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.670</Modified>
+      <Modified>2024-04-10T19:44:14.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>iconnewLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.512</Modified>
+      <Modified>2024-04-10T19:44:14.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>iconnewLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.532</Modified>
+      <Modified>2024-04-10T19:44:14.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-16.png">
       <PackagePath>iconnewLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.308</Modified>
+      <Modified>2024-04-10T19:44:13.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-24.png">
       <PackagePath>iconnewLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.308</Modified>
+      <Modified>2024-04-10T19:44:13.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-256.png">
       <PackagePath>iconnewLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.418</Modified>
+      <Modified>2024-04-10T19:44:14.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-32.png">
       <PackagePath>iconnewLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.308</Modified>
+      <Modified>2024-04-10T19:44:13.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-48.png">
       <PackagePath>iconnewLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.323</Modified>
+      <Modified>2024-04-10T19:44:13.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-100.png">
       <PackagePath>iconnewLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.601</Modified>
+      <Modified>2024-04-10T19:44:13.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-125.png">
       <PackagePath>iconnewLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.601</Modified>
+      <Modified>2024-04-10T19:44:13.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-150.png">
       <PackagePath>iconnewLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.695</Modified>
+      <Modified>2024-04-10T19:44:13.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-200.png">
       <PackagePath>iconnewLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.898</Modified>
+      <Modified>2024-04-10T19:44:13.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-400.png">
       <PackagePath>iconnewLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.008</Modified>
+      <Modified>2024-04-10T19:44:13.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-16.png">
       <PackagePath>iconnewLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.136</Modified>
+      <Modified>2024-04-10T19:44:13.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-24.png">
       <PackagePath>iconnewLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.151</Modified>
+      <Modified>2024-04-10T19:44:13.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-256.png">
       <PackagePath>iconnewLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.261</Modified>
+      <Modified>2024-04-10T19:44:13.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-32.png">
       <PackagePath>iconnewLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.151</Modified>
+      <Modified>2024-04-10T19:44:13.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-48.png">
       <PackagePath>iconnewLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.151</Modified>
+      <Modified>2024-04-10T19:44:13.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-100.png">
       <PackagePath>iconnewMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.455</Modified>
+      <Modified>2024-04-10T19:44:14.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-125.png">
       <PackagePath>iconnewMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.518</Modified>
+      <Modified>2024-04-10T19:44:14.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-150.png">
       <PackagePath>iconnewMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.707</Modified>
+      <Modified>2024-04-10T19:44:14.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-200.png">
       <PackagePath>iconnewMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.834</Modified>
+      <Modified>2024-04-10T19:44:14.229</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-400.png">
       <PackagePath>iconnewMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.085</Modified>
+      <Modified>2024-04-10T19:44:14.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-100.png">
       <PackagePath>iconnewSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.858</Modified>
+      <Modified>2024-04-10T19:44:14.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-125.png">
       <PackagePath>iconnewSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.952</Modified>
+      <Modified>2024-04-10T19:44:14.103</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-150.png">
       <PackagePath>iconnewSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.967</Modified>
+      <Modified>2024-04-10T19:44:14.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-200.png">
       <PackagePath>iconnewSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.983</Modified>
+      <Modified>2024-04-10T19:44:14.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-400.png">
       <PackagePath>iconnewSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.156</Modified>
+      <Modified>2024-04-10T19:44:14.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-100.png">
       <PackagePath>iconnewStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.670</Modified>
+      <Modified>2024-04-10T19:44:14.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-125.png">
       <PackagePath>iconnewStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.732</Modified>
+      <Modified>2024-04-10T19:44:14.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-150.png">
       <PackagePath>iconnewStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.748</Modified>
+      <Modified>2024-04-10T19:44:14.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-200.png">
       <PackagePath>iconnewStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.765</Modified>
+      <Modified>2024-04-10T19:44:14.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-400.png">
       <PackagePath>iconnewStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.842</Modified>
+      <Modified>2024-04-10T19:44:14.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-100.png">
       <PackagePath>iconnewWideTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.164</Modified>
+      <Modified>2024-04-10T19:44:14.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-125.png">
       <PackagePath>iconnewWideTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.290</Modified>
+      <Modified>2024-04-10T19:44:14.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-150.png">
       <PackagePath>iconnewWideTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.368</Modified>
+      <Modified>2024-04-10T19:44:14.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-200.png">
       <PackagePath>iconnewWideTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.478</Modified>
+      <Modified>2024-04-10T19:44:14.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-400.png">
       <PackagePath>iconnewWideTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.746</Modified>
+      <Modified>2024-04-10T19:44:14.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconround.ico">
       <PackagePath>iconround.ico</PackagePath>
-      <Modified>2024-04-10T03:20:46.820</Modified>
+      <Modified>2024-04-10T19:44:13.891</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-100.png">
       <PackagePath>iconroundLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.022</Modified>
+      <Modified>2024-04-10T19:44:14.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-125.png">
       <PackagePath>iconroundLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.085</Modified>
+      <Modified>2024-04-10T19:44:14.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-150.png">
       <PackagePath>iconroundLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.180</Modified>
+      <Modified>2024-04-10T19:44:14.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-200.png">
       <PackagePath>iconroundLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.353</Modified>
+      <Modified>2024-04-10T19:44:14.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-400.png">
       <PackagePath>iconroundLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:49.636</Modified>
+      <Modified>2024-04-10T19:44:14.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>iconroundLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.292</Modified>
+      <Modified>2024-04-10T19:44:13.967</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>iconroundLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.308</Modified>
+      <Modified>2024-04-10T19:44:13.971</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>iconroundLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.371</Modified>
+      <Modified>2024-04-10T19:44:13.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>iconroundLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.323</Modified>
+      <Modified>2024-04-10T19:44:13.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>iconroundLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.323</Modified>
+      <Modified>2024-04-10T19:44:13.974</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-16.png">
       <PackagePath>iconroundLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.119</Modified>
+      <Modified>2024-04-10T19:44:13.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-24.png">
       <PackagePath>iconroundLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.131</Modified>
+      <Modified>2024-04-10T19:44:13.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-256.png">
       <PackagePath>iconroundLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.292</Modified>
+      <Modified>2024-04-10T19:44:13.963</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-32.png">
       <PackagePath>iconroundLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.151</Modified>
+      <Modified>2024-04-10T19:44:13.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-48.png">
       <PackagePath>iconroundLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.213</Modified>
+      <Modified>2024-04-10T19:44:13.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-100.png">
       <PackagePath>iconroundLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.836</Modified>
+      <Modified>2024-04-10T19:44:13.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-125.png">
       <PackagePath>iconroundLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.836</Modified>
+      <Modified>2024-04-10T19:44:13.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-150.png">
       <PackagePath>iconroundLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.836</Modified>
+      <Modified>2024-04-10T19:44:13.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-200.png">
       <PackagePath>iconroundLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.851</Modified>
+      <Modified>2024-04-10T19:44:13.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-400.png">
       <PackagePath>iconroundLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.930</Modified>
+      <Modified>2024-04-10T19:44:13.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-16.png">
       <PackagePath>iconroundLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-04-10T03:20:46.993</Modified>
+      <Modified>2024-04-10T19:44:13.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-24.png">
       <PackagePath>iconroundLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.040</Modified>
+      <Modified>2024-04-10T19:44:13.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-256.png">
       <PackagePath>iconroundLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.119</Modified>
+      <Modified>2024-04-10T19:44:13.939</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-32.png">
       <PackagePath>iconroundLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.087</Modified>
+      <Modified>2024-04-10T19:44:13.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-48.png">
       <PackagePath>iconroundLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.103</Modified>
+      <Modified>2024-04-10T19:44:13.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-100.png">
       <PackagePath>iconroundMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.716</Modified>
+      <Modified>2024-04-10T19:44:14.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-125.png">
       <PackagePath>iconroundMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.795</Modified>
+      <Modified>2024-04-10T19:44:14.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-150.png">
       <PackagePath>iconroundMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.810</Modified>
+      <Modified>2024-04-10T19:44:14.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-200.png">
       <PackagePath>iconroundMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.904</Modified>
+      <Modified>2024-04-10T19:44:14.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-400.png">
       <PackagePath>iconroundMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.125</Modified>
+      <Modified>2024-04-10T19:44:14.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-100.png">
       <PackagePath>iconroundSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.544</Modified>
+      <Modified>2024-04-10T19:44:14.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-125.png">
       <PackagePath>iconroundSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.622</Modified>
+      <Modified>2024-04-10T19:44:14.016</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-150.png">
       <PackagePath>iconroundSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.622</Modified>
+      <Modified>2024-04-10T19:44:14.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-200.png">
       <PackagePath>iconroundSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.638</Modified>
+      <Modified>2024-04-10T19:44:14.027</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-400.png">
       <PackagePath>iconroundSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.654</Modified>
+      <Modified>2024-04-10T19:44:14.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-100.png">
       <PackagePath>iconroundStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.386</Modified>
+      <Modified>2024-04-10T19:44:13.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-125.png">
       <PackagePath>iconroundStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.434</Modified>
+      <Modified>2024-04-10T19:44:13.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-150.png">
       <PackagePath>iconroundStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.512</Modified>
+      <Modified>2024-04-10T19:44:13.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-200.png">
       <PackagePath>iconroundStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.532</Modified>
+      <Modified>2024-04-10T19:44:13.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-400.png">
       <PackagePath>iconroundStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:47.544</Modified>
+      <Modified>2024-04-10T19:44:14.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-100.png">
       <PackagePath>iconroundWideTile.scale-100.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.375</Modified>
+      <Modified>2024-04-10T19:44:14.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-125.png">
       <PackagePath>iconroundWideTile.scale-125.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.408</Modified>
+      <Modified>2024-04-10T19:44:14.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-150.png">
       <PackagePath>iconroundWideTile.scale-150.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.535</Modified>
+      <Modified>2024-04-10T19:44:14.144</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-200.png">
       <PackagePath>iconroundWideTile.scale-200.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.660</Modified>
+      <Modified>2024-04-10T19:44:14.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-400.png">
       <PackagePath>iconroundWideTile.scale-400.png</PackagePath>
-      <Modified>2024-04-10T03:20:48.928</Modified>
+      <Modified>2024-04-10T19:44:14.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png">
       <PackagePath>plus.scale-100.png</PackagePath>

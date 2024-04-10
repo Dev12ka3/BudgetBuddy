@@ -898,6 +898,21 @@
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png">
       <PackagePath>back.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-100.png">
+      <PackagePath>bb.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-125.png">
+      <PackagePath>bb.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-150.png">
+      <PackagePath>bb.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-200.png">
+      <PackagePath>bb.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\bb.scale-400.png">
+      <PackagePath>bb.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png">
       <PackagePath>check.scale-100.png</PackagePath>
     </AppxPackagedFile>

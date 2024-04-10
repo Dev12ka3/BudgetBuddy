@@ -12,7 +12,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>Budget App By Dev and Jenir</ApplicationTitle>
+		<ApplicationTitle>Budget Buddy</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.Maui.BudgetBuddy</ApplicationId>
@@ -44,8 +44,7 @@
 		<!-- App Icon -->
 		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
 		<MauiIcon Include="Resources\AppIcon\iconnew.png" />
-		<MauiIcon Include="Resources\AppIcon\iconround.png" />
-
+		<MauiIcon Include="Resources\AppIcon\iconround.svg" />
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\splashround.png" Color="#3366ff">
 		  <CopyToOutputDirectory>Never</CopyToOutputDirectory>
