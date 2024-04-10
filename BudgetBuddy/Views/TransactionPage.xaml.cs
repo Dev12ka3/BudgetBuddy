@@ -17,15 +17,38 @@ namespace BudgetBuddy.Views
             database = new PayItemItemDatabase();
             transactionsListView = new ListView();
             transactionsListView.ItemTemplate = new DataTemplate(typeof(TransactionCell));
-            transactionsListView.RowHeight = 70; 
+            transactionsListView.RowHeight = 70;
             transactionsListView.ItemSelected += OnTransactionSelected;
 
+            var searchBar = new SearchBar();
+            searchBar.HorizontalOptions = LayoutOptions.FillAndExpand;
+            searchBar.Margin = new Thickness(0, 10, 0, 30);
+            searchBar.Placeholder = "Search transactions...";   
+            searchBar.SearchButtonPressed += SearchBar_SearchButtonPressed;
 
-            Content = transactionsListView;
+            var stackLayout = new StackLayout();
+            stackLayout.Children.Add(searchBar);
+            stackLayout.Children.Add(transactionsListView);
+
+            Content = stackLayout;
 
             LoadTransactions();
         }
+        private async void SearchBar_SearchButtonPressed(object sender, EventArgs e)
+        {
+            var searchBar = (SearchBar)sender;
+            string searchText = searchBar.Text.ToLower();
 
+            if (string.IsNullOrWhiteSpace(searchText))
+            {
+                LoadTransactions();
+                return;
+            }
+
+            List<PayItem> transactions = await database.GetAllTransactionsAsync();
+            IEnumerable<PayItem> filteredTransactions = transactions.Where(t => t.Name.ToLower().Contains(searchText) || t.Category.ToLower().Contains(searchText) || t.AmountText.ToLower().Contains(searchText));
+            transactionsListView.ItemsSource = filteredTransactions;
+        }
         private async void LoadTransactions()
         {
             List<PayItem> transactions = await database.GetAllTransactionsAsync();
