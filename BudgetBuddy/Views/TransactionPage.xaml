@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BudgetBuddy.Views.TransactionPage"
+             Title="Transaction">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem  IconImageSource="search.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding Listofdata}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="20">
+                            <Entry Placeholder="Enter search keyword" x:Name="searchEntry" />
+                            <Button Text="Search" Clicked="ToolbarItem_Clicked" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+
+</ContentPage>
