@@ -610,6 +610,9 @@
     <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\communitytoolkit.mvvm\8.2.0\lib\net6.0\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\firebaseauthentication.net\4.1.0\lib\netstandard2.0\Firebase.Auth.dll">
+      <PackagePath>Firebase.Auth.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -688,7 +691,7 @@
     <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\newtonsoft.json\13.0.2\lib\net6.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
@@ -736,164 +739,26 @@
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-100.png">
-      <PackagePath>splashroundSplashScreen.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\iconSplashScreen.scale-100.png">
+      <PackagePath>iconSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-125.png">
-      <PackagePath>splashroundSplashScreen.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\iconSplashScreen.scale-125.png">
+      <PackagePath>iconSplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-150.png">
-      <PackagePath>splashroundSplashScreen.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\iconSplashScreen.scale-150.png">
+      <PackagePath>iconSplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-200.png">
-      <PackagePath>splashroundSplashScreen.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\iconSplashScreen.scale-200.png">
+      <PackagePath>iconSplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashroundSplashScreen.scale-400.png">
-      <PackagePath>splashroundSplashScreen.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\iconSplashScreen.scale-400.png">
+      <PackagePath>iconSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png">
       <PackagePath>back.scale-100.png</PackagePath>
@@ -940,287 +805,155 @@
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnew.ico">
-      <PackagePath>iconnew.ico</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconab.ico">
+      <PackagePath>iconab.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-100.png">
-      <PackagePath>iconnewLargeTile.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLargeTile.scale-100.png">
+      <PackagePath>iconabLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-125.png">
-      <PackagePath>iconnewLargeTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLargeTile.scale-125.png">
+      <PackagePath>iconabLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-150.png">
-      <PackagePath>iconnewLargeTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLargeTile.scale-150.png">
+      <PackagePath>iconabLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-200.png">
-      <PackagePath>iconnewLargeTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLargeTile.scale-200.png">
+      <PackagePath>iconabLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLargeTile.scale-400.png">
-      <PackagePath>iconnewLargeTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLargeTile.scale-400.png">
+      <PackagePath>iconabLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>iconnewLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>iconabLogo.altform-lightunplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>iconnewLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>iconabLogo.altform-lightunplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>iconnewLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>iconabLogo.altform-lightunplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>iconnewLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>iconabLogo.altform-lightunplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>iconnewLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>iconabLogo.altform-lightunplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>iconnewLogo.altform-unplated_targetsize-16.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>iconabLogo.altform-unplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>iconnewLogo.altform-unplated_targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>iconabLogo.altform-unplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>iconnewLogo.altform-unplated_targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>iconabLogo.altform-unplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>iconnewLogo.altform-unplated_targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>iconabLogo.altform-unplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>iconnewLogo.altform-unplated_targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>iconabLogo.altform-unplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-100.png">
-      <PackagePath>iconnewLogo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.scale-100.png">
+      <PackagePath>iconabLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-125.png">
-      <PackagePath>iconnewLogo.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.scale-125.png">
+      <PackagePath>iconabLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-150.png">
-      <PackagePath>iconnewLogo.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.scale-150.png">
+      <PackagePath>iconabLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-200.png">
-      <PackagePath>iconnewLogo.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.scale-200.png">
+      <PackagePath>iconabLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.scale-400.png">
-      <PackagePath>iconnewLogo.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.scale-400.png">
+      <PackagePath>iconabLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-16.png">
-      <PackagePath>iconnewLogo.targetsize-16.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.targetsize-16.png">
+      <PackagePath>iconabLogo.targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-24.png">
-      <PackagePath>iconnewLogo.targetsize-24.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.targetsize-24.png">
+      <PackagePath>iconabLogo.targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-256.png">
-      <PackagePath>iconnewLogo.targetsize-256.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.targetsize-256.png">
+      <PackagePath>iconabLogo.targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-32.png">
-      <PackagePath>iconnewLogo.targetsize-32.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.targetsize-32.png">
+      <PackagePath>iconabLogo.targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewLogo.targetsize-48.png">
-      <PackagePath>iconnewLogo.targetsize-48.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabLogo.targetsize-48.png">
+      <PackagePath>iconabLogo.targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-100.png">
-      <PackagePath>iconnewMediumTile.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabMediumTile.scale-100.png">
+      <PackagePath>iconabMediumTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-125.png">
-      <PackagePath>iconnewMediumTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabMediumTile.scale-125.png">
+      <PackagePath>iconabMediumTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-150.png">
-      <PackagePath>iconnewMediumTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabMediumTile.scale-150.png">
+      <PackagePath>iconabMediumTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-200.png">
-      <PackagePath>iconnewMediumTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabMediumTile.scale-200.png">
+      <PackagePath>iconabMediumTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewMediumTile.scale-400.png">
-      <PackagePath>iconnewMediumTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabMediumTile.scale-400.png">
+      <PackagePath>iconabMediumTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-100.png">
-      <PackagePath>iconnewSmallTile.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabSmallTile.scale-100.png">
+      <PackagePath>iconabSmallTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-125.png">
-      <PackagePath>iconnewSmallTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabSmallTile.scale-125.png">
+      <PackagePath>iconabSmallTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-150.png">
-      <PackagePath>iconnewSmallTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabSmallTile.scale-150.png">
+      <PackagePath>iconabSmallTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-200.png">
-      <PackagePath>iconnewSmallTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabSmallTile.scale-200.png">
+      <PackagePath>iconabSmallTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewSmallTile.scale-400.png">
-      <PackagePath>iconnewSmallTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabSmallTile.scale-400.png">
+      <PackagePath>iconabSmallTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-100.png">
-      <PackagePath>iconnewStoreLogo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabStoreLogo.scale-100.png">
+      <PackagePath>iconabStoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-125.png">
-      <PackagePath>iconnewStoreLogo.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabStoreLogo.scale-125.png">
+      <PackagePath>iconabStoreLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-150.png">
-      <PackagePath>iconnewStoreLogo.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabStoreLogo.scale-150.png">
+      <PackagePath>iconabStoreLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-200.png">
-      <PackagePath>iconnewStoreLogo.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabStoreLogo.scale-200.png">
+      <PackagePath>iconabStoreLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewStoreLogo.scale-400.png">
-      <PackagePath>iconnewStoreLogo.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabStoreLogo.scale-400.png">
+      <PackagePath>iconabStoreLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-100.png">
-      <PackagePath>iconnewWideTile.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabWideTile.scale-100.png">
+      <PackagePath>iconabWideTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-125.png">
-      <PackagePath>iconnewWideTile.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabWideTile.scale-125.png">
+      <PackagePath>iconabWideTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-150.png">
-      <PackagePath>iconnewWideTile.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabWideTile.scale-150.png">
+      <PackagePath>iconabWideTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-200.png">
-      <PackagePath>iconnewWideTile.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabWideTile.scale-200.png">
+      <PackagePath>iconabWideTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconnewWideTile.scale-400.png">
-      <PackagePath>iconnewWideTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconabWideTile.scale-400.png">
+      <PackagePath>iconabWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconround.ico">
-      <PackagePath>iconround.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-100.png">
-      <PackagePath>iconroundLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-125.png">
-      <PackagePath>iconroundLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-150.png">
-      <PackagePath>iconroundLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-200.png">
-      <PackagePath>iconroundLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLargeTile.scale-400.png">
-      <PackagePath>iconroundLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>iconroundLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>iconroundLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>iconroundLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>iconroundLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>iconroundLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>iconroundLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>iconroundLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>iconroundLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>iconroundLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>iconroundLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-100.png">
-      <PackagePath>iconroundLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-125.png">
-      <PackagePath>iconroundLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-150.png">
-      <PackagePath>iconroundLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-200.png">
-      <PackagePath>iconroundLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.scale-400.png">
-      <PackagePath>iconroundLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-16.png">
-      <PackagePath>iconroundLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-24.png">
-      <PackagePath>iconroundLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-256.png">
-      <PackagePath>iconroundLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-32.png">
-      <PackagePath>iconroundLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundLogo.targetsize-48.png">
-      <PackagePath>iconroundLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-100.png">
-      <PackagePath>iconroundMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-125.png">
-      <PackagePath>iconroundMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-150.png">
-      <PackagePath>iconroundMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-200.png">
-      <PackagePath>iconroundMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundMediumTile.scale-400.png">
-      <PackagePath>iconroundMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-100.png">
-      <PackagePath>iconroundSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-125.png">
-      <PackagePath>iconroundSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-150.png">
-      <PackagePath>iconroundSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-200.png">
-      <PackagePath>iconroundSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundSmallTile.scale-400.png">
-      <PackagePath>iconroundSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-100.png">
-      <PackagePath>iconroundStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-125.png">
-      <PackagePath>iconroundStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-150.png">
-      <PackagePath>iconroundStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-200.png">
-      <PackagePath>iconroundStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundStoreLogo.scale-400.png">
-      <PackagePath>iconroundStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-100.png">
-      <PackagePath>iconroundWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-125.png">
-      <PackagePath>iconroundWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-150.png">
-      <PackagePath>iconroundWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-200.png">
-      <PackagePath>iconroundWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconroundWideTile.scale-400.png">
-      <PackagePath>iconroundWideTile.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lock.scale-100.png">
+      <PackagePath>lock.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\plus.scale-100.png">
       <PackagePath>plus.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\search.scale-100.png">
       <PackagePath>search.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\spimg.scale-100.png">
+      <PackagePath>spimg.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\transaction.scale-100.png">
       <PackagePath>transaction.scale-100.png</PackagePath>

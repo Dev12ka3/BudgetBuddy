@@ -2,11 +2,41 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BudgetBuddy.Views.SignIn"
-             Title="SignIn">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title=""
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Margin="10" MaximumWidthRequest="300">
+        <Label Text="Welcome Back!" HorizontalOptions="CenterAndExpand" FontSize="30"  TextColor="#3366ff" Margin="0,30,0,50"/>
+        <Image Source="spimg.png" />
+        <VerticalStackLayout Margin="0,100,0,0" HorizontalOptions="Center" MinimumWidthRequest="300" >
+            <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="0" Margin="0,15,0,0" HorizontalOptions="FillAndExpand" CornerRadius="30">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" >
+                    <Frame BackgroundColor="Transparent" HeightRequest="40" WidthRequest="40" CornerRadius="30" Padding="5" Margin="5" BorderColor="Transparent">
+                        <Image Source="https://cdn0.iconfinder.com/data/icons/social-network-107/512/user-512.png" Aspect="AspectFill" Margin="0"/>  
+                    </Frame>
+                    <Entry x:Name="EmailEntry" Text="{Binding UserName}"  Placeholder="Email" TextColor="Black" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="FillAndExpand" Margin="0,0,20,0" MinimumWidthRequest="170" />
+                </StackLayout>
+            </Frame>
+
+            <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="0" Margin="0,15,0,0" HorizontalOptions="FillAndExpand" CornerRadius="30">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" >
+                    <Frame BackgroundColor="Transparent" HeightRequest="40" WidthRequest="40" CornerRadius="30"  Margin="5" BorderColor="Transparent" Padding="4">
+                        <ImageButton Source="lock.png" Aspect="AspectFit" Margin="0"  />
+                    </Frame>
+                    <Entry x:Name="PasswordEntry" Text="{Binding password}" Placeholder="password" TextColor="Black" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="FillAndExpand" Margin="0,0,20,0"/>
+                </StackLayout>
+            </Frame>
+
+            <Button Text="Log In" BackgroundColor="#3366ff" TextColor="White" FontAttributes="Bold" CornerRadius="30"  Margin="0,15,0,0" Clicked="Loginbutton">
+
+            </Button>
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Label Text="Don't have  Account?" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" />
+
+                <Button Text="Create an account" Background="Transparent" TextColor="#3366ff" Clicked="Createaccount"/>
+
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+
+    </StackLayout>
+
 </ContentPage>

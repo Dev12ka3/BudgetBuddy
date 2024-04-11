@@ -1,24 +1,4 @@
-﻿	
-
-
-Server stack trace: 
-   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
-   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
-   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
-   at Microsoft.Maui.Controls.Build.Tasks.CecilExtensions.IsXaml(EmbeddedResource resource, ModuleDefinition module, String& classname) in D:\a\_work\1\s\src\Controls\src\Build.Tasks\XamlTask.cs:line 81
-   at Microsoft.Maui.Controls.Build.Tasks.XamlCTask.Execute(IList`1& thrownExceptions) in D:\a\_work\1\s\src\Controls\src\Build.Tasks\XamlCTask.cs:line 113
-   at Microsoft.Maui.Controls.Build.Tasks.XamlTask.Execute() in D:\a\_work\1\s\src\Controls\src\Build.Tasks\XamlTask.cs:line 39
-   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
-   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
-
-Exception rethrown at [0]: 
-   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
-   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
-   at Microsoft.Build.Framework.ITask.Execute()
-   at Microsoft.Build.BackEnd.TaskExecutionHost.Microsoft.Build.BackEnd.ITaskExecutionHost.Execute()
-   at Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()	BudgetBuddy	C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\7.0.101\Sdk\Microsoft.Maui.Controls.targets	149	
-
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1

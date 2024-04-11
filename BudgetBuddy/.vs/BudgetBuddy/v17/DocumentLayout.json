@@ -7,16 +7,48 @@
       "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\transactionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\transactionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\payitemlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\payitemlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\budgetbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:budgetbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\payitemlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\payitemlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\payitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\payitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\views\\payitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:views\\payitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|c:\\users\\devsh\\source\\repos\\budgetappbymkd\\budgetbuddy\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB6978E-2721-4017-A4D1-09E1D80FE5FD}|BudgetBuddy.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,15 +74,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignUp.xaml.cs",
+              "RelativeToolTip": "Views\\SignUp.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwD0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:48:03.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TransactionPage.xaml",
-              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\TransactionPage.xaml",
-              "RelativeDocumentMoniker": "Views\\TransactionPage.xaml",
-              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\TransactionPage.xaml",
-              "RelativeToolTip": "Views\\TransactionPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignIn.xaml",
+              "RelativeDocumentMoniker": "Views\\SignIn.xaml",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignIn.xaml",
+              "RelativeToolTip": "Views\\SignIn.xaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBgAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T20:47:17.03Z",
+              "WhenOpened": "2024-04-11T01:41:21.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignUp.xaml",
+              "RelativeDocumentMoniker": "Views\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignUp.xaml",
+              "RelativeToolTip": "Views\\SignUp.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwB8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T02:38:42.696Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -59,35 +120,111 @@
               "Title": "TransactionPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\TransactionPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\TransactionPage.xaml.cs",
-              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\TransactionPage.xaml.cs",
-              "RelativeToolTip": "Views\\TransactionPage.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\TransactionPage.xaml.cs*",
+              "RelativeToolTip": "Views\\TransactionPage.xaml.cs*",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T20:37:34.149Z",
+              "WhenOpened": "2024-04-11T03:17:12.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PayItemListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemListPage.xaml",
-              "RelativeDocumentMoniker": "Views\\PayItemListPage.xaml",
-              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemListPage.xaml",
-              "RelativeToolTip": "Views\\PayItemListPage.xaml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwCIAAAAsAAAA",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-11T02:32:56.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net7.0-android33.0\\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:09:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PayItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PayItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemPage.xaml.cs",
+              "RelativeToolTip": "Views\\PayItemPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:05:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemPage.xaml",
+              "RelativeDocumentMoniker": "Views\\PayItemPage.xaml",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemPage.xaml",
+              "RelativeToolTip": "Views\\PayItemPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T20:23:53.381Z",
+              "WhenOpened": "2024-04-11T02:05:08.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:05:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SignIn.xaml.cs",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\SignIn.xaml.cs",
+              "RelativeToolTip": "Views\\SignIn.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:25:02.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BudgetBuddy.csproj",
+              "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\BudgetBuddy.csproj",
+              "RelativeDocumentMoniker": "BudgetBuddy.csproj",
+              "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\BudgetBuddy.csproj",
+              "RelativeToolTip": "BudgetBuddy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T01:40:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PayItemListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemListPage.xaml.cs",
               "RelativeDocumentMoniker": "Views\\PayItemListPage.xaml.cs",
               "ToolTip": "C:\\Users\\devsh\\source\\repos\\BudgetAppByMKD\\BudgetBuddy\\Views\\PayItemListPage.xaml.cs",
               "RelativeToolTip": "Views\\PayItemListPage.xaml.cs",
-              "ViewState": "AQIAAEsBAAAAAAAAAAAIwGQBAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQBAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T20:23:47.108Z",
               "EditorCaption": ""

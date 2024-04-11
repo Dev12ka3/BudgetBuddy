@@ -8,7 +8,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new NavigationPage(new PayItemListPage())
+		MainPage = new NavigationPage(new SignIn())
 		{
 			BarTextColor = Color.FromRgb(255,255,255),
 			BarBackgroundColor = Color.FromArgb("#3366ff")

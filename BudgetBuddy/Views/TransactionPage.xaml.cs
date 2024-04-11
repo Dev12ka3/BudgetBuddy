@@ -80,15 +80,15 @@ namespace BudgetBuddy.Views
         public TransactionCell()
         {
             var nameLabel = new Label();
-            nameLabel.Margin = new Thickness(0,1,0,1);
+            nameLabel.Margin = new Thickness(5,1,0,1);
             nameLabel.SetBinding(Label.TextProperty, "Name");
 
             var amountLabel = new Label();
-            amountLabel.Margin = new Thickness(0, 1, 0, 1);
+            amountLabel.Margin = new Thickness(5, 1, 0, 1);
             amountLabel.SetBinding(Label.TextProperty, "AmountText");
 
             var categoryLabel = new Label();
-            categoryLabel.Margin = new Thickness(0, 1, 0, 10);
+            categoryLabel.Margin = new Thickness(5, 1, 0, 10);
             categoryLabel.SetBinding(Label.TextProperty, "Category");
 
             

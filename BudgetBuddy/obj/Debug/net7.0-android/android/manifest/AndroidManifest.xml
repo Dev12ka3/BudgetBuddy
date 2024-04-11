@@ -11,7 +11,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <permission android:name="com.Maui.BudgetBuddy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
   <uses-permission android:name="com.Maui.BudgetBuddy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-  <application android:name="crc64cc702c9aa8b984a7.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/iconnew" android:label="Budget App By Dev and Jenir" android:roundIcon="@mipmap/iconnew" android:supportsRtl="true">
+  <application android:name="crc64cc702c9aa8b984a7.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="C:\Users\devsh\source\repos\BudgetAppByMKD\BudgetBuddy\Resources\AppIcon\icon.png" android:label="Budget Buddy" android:roundIcon="@mipmap/iconnew" android:supportsRtl="true">
     <activity android:name="crc64cc702c9aa8b984a7.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

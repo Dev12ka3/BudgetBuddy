@@ -4,7 +4,7 @@
              x:Class="BudgetBuddy.Views.PayItemListPage"
              xmlns:models="clr-namespace:BudgetBuddy.Models"
              xmlns:local="clr-namespace:BudgetBuddy"
-             Title="Budget App">
+             Title="Dashboard">
     <ContentPage.ToolbarItems>
 
         <ToolbarItem Clicked="OnSettingsClick" IconImageSource="cog.png" />
